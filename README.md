@@ -6,9 +6,9 @@ Welcome to my GitHub portfolio! I'm an ethical hacker and cybersecurity enthusia
 
 ## 🚀 About Me
 
-🔒 **Name:** [Your Name]  
+🔒 **Name:** [Rahul VS]  
 🌐 **Website/Blog:** [YourWebsite.com](https://YourWebsite.com)  
-📧 **Email:** [YourEmail@example.com](mailto:YourEmail@example.com)  
+📧 **Email:** [vsrahul163@gmail.com](mailto:vsrahul163@gmail.com.com)  
 💼 **LinkedIn:** [linkedin.com/in/YourProfile](https://linkedin.com/in/YourProfile)  
 🐦 **Twitter:** [@YourHandle](https://twitter.com/YourHandle)
 
