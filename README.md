@@ -8,7 +8,7 @@ Welcome to my GitHub portfolio! I'm an ethical hacker and cybersecurity enthusia
 
 🔒 **Name:** [Rahul VS]  
 🌐 **Website/Blog:** [YourWebsite.com](https://YourWebsite.com)  
-📧 **Email:** [vsrahul163@gmail.com](mailto:vsrahul163@gmail.com.com)  
+📧 **Email:** [vsrahul163@gmail.com](mailto:vsrahul163@gmail.com)  
 💼 **LinkedIn:** [RVS](https://www.linkedin.com/in/rahul-v-s-2443ab292)
 
 As an ethical hacker, I strive to improve cybersecurity by identifying vulnerabilities before malicious actors exploit them. My expertise lies in penetration testing, secure code review, network analysis, and incident response.
@@ -66,6 +66,25 @@ A suite of scripts to assist with incident detection and response tasks.
 
 ---
 
+## 📝 Blog
+
+### Recent Posts:
+1. [**Securing Web Applications Against OWASP Top 10**](https://YourWebsite.com/blog/owasp-top-10)
+   - Published on: **December 10, 2025**  
+   - A comprehensive guide to mitigating common vulnerabilities in web applications.
+   
+2. [**Mastering Wireshark for Network Analysis**](https://YourWebsite.com/blog/wireshark-guide)
+   - Published on: **November 25, 2025**  
+   - Tips and tricks to become proficient in analyzing network traffic with Wireshark.
+   
+3. [**Breaking Down Penetration Testing Methodologies**](https://YourWebsite.com/blog/penetration-testing-methodologies)
+   - Published on: **November 15, 2025**  
+   - Learn how to effectively approach and document penetration tests.
+
+> **Visit my blog at [YourWebsite.com/blog](https://YourWebsite.com/blog) for more insights and write-ups on cybersecurity.**
+
+---
+
 ## 📊 Stats & Achievements
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
@@ -94,7 +113,7 @@ All tools and scripts in this repository are for **educational purposes only**. 
 ---
 
 Thank you for visiting my portfolio! 😊
-## Hi there 👋
+
 
 <!--
 **RVS1122/RVS1122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
